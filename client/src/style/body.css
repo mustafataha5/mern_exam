@@ -1,0 +1,16 @@
+.mybody {
+    background-color: #ffa500;
+}
+
+.imageUrl{
+    width: 256px;
+    height:256px;
+}
+
+.myCard{
+    max-height: 256px;
+}
+.error {
+    font-size: 10px;
+    color: rgb(228, 10, 10);
+}
